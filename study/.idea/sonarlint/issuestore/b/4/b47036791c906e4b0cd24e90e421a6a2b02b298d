@@ -1,0 +1,11 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(…êğùøÿÿÿÿ8¢äİßÕ-
+ssquid:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÄò¦üÿÿÿÿ8æ„ßÕ-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8€¢ÜàÕ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(éØÂ£ûÿÿÿÿ8æ„ßÕ-
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(ƒ‹ÕÕ8ï™ßÕ-
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8€¢ÜàÕ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Öü¦£ûÿÿÿÿ8æ„ßÕ-
